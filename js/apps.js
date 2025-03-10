@@ -19,7 +19,6 @@ versions.v1 = {
   col3: "#435461",
   col4: "#84A78F",
   animearray: [
-    {name:"0_blank",color:"0",uniqsnd:!0},
         {name:"1_model",color:"ffffff",uniqsnd:!0},
         {name:"2_mario",color:"D60058",uniqsnd:!0},
         {name:"3_piñata",color:"FDD602",uniqsnd:!0},
