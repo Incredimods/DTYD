@@ -4,12 +4,11 @@
         caches.open('DTYD-cache')
           .then(cache => {
             return cache.addAll([
-              '/',
-              '/index.html',
-              '/styles.css',
-              '/scripts/app.js',
-              '/images/icon-192x192.png',
-              '/images/icon-512x512.png'
+                '/',
+                'asset-v1/icon.png',
+                'css/style.min.css',
+                'js/script.min.js',
+                'index.html',
             ]);
           })
       );
