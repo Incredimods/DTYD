@@ -30,10 +30,10 @@ function onLockedIcon(){
 
 function onV1Bonus1Finished(){
   QuickMessage('Bonus Stopped Playing!');
-  Shake(10, 500);
+  Shake(10,500);
 }
 
 function onV1Polo1(){
-  Shake(10, 500);
-  Bloom(10, 500);
+  Shake(10,500);
+  Bloom(10,500);
 }
