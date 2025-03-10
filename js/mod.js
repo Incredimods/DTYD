@@ -25,7 +25,7 @@ var ModDeveloper = "LexLim";
 
 // Simple function for locked icons!
 function onLockedIcon(){
-  boxDialog.open('This Icon is locked', 'LOCKED!')
+  boxDialog.open('This Icon is locked', 'LOCKED!');
 }
 
 function onV1Bonus1Finished(){
@@ -35,4 +35,5 @@ function onV1Bonus1Finished(){
 
 function onV1Polo1(){
   Shake(10, 500);
+  Bloom(10, 500);
 }
