@@ -6273,10 +6273,6 @@ progress::-moz-progress-bar {
   align-items: center;
 }
 
-.notification{
-  display: none !important;
-}
-
 #achievements-list p {
   color: var(--col1);
   text-align: center;
