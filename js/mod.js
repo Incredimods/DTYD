@@ -29,5 +29,6 @@ function onLockedIcon(){
 }
 
 function onV1Bonus1Finished(){
-shake(20, 1000);
+  QuickMessage('Bonus Stopped Playing!');
+  Shake(20, 1000);
 }
