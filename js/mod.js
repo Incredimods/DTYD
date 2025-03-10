@@ -28,5 +28,6 @@ function onLockedIcon(){
   boxDialog.open('This Icon is locked', 'LOCKED!')
 }
 
-function onV1Bonus1Finished()
+function onV1Bonus1Finished(){
 shake(20, 1000)
+}
