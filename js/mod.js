@@ -29,5 +29,5 @@ function onLockedIcon(){
 }
 
 function onV1Bonus1Finished(){
-shake(20, 1000)
+shake(20, 1000);
 }
