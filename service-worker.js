@@ -7,6 +7,11 @@
                 '/',
                 'asset-v1/icon.png',
                 'css/style.min.css',
+                'js/apps.js',
+                'js/examples.js',
+                'js/.png',
+                'js/.png',
+                'js/mod.js',
                 'js/script.min.js',
                 'index.html',
             ]);
