@@ -26,7 +26,7 @@ versions.v1 = {
         {name:"0_blank",color:"0",uniqsnd:!0},
 
         {name:"0_blank",color:"0",uniqsnd:!0},
-        {name:"4_día-de-muertos",color:"00B497",uniqsnd:!1},
+        {name:"4_dia-de-muertos",color:"00B497",uniqsnd:!1},
         {name:"5_ameriman",color:"0059AD",uniqsnd:!0},
         {name:"6_melodeal-crash",color:"FDD602",uniqsnd:!1},
         {name:"0_blank",color:"0",uniqsnd:!0},
